@@ -78,5 +78,5 @@ Try advanced regression techniques for better accuracy.
 Deploy the model using Streamlit or Flask for public interaction.
 
 # 🔗 Dataset
-Source: Kaggle – Medical Cost Personal Dataset (include only if this is your source)
+Source: Kaggle – Medical Cost Personal Dataset 
 
